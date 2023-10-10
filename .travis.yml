@@ -8,3 +8,5 @@ before_install:
 script:
   
   - python impares.py
+  - python Multiplicar.py
+  - python soma.py
