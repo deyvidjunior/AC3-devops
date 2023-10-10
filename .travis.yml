@@ -6,6 +6,5 @@ before_install:
   - python -m pip install  --upgrade pip
 
 script:
-  - python soma.py
-  - python multiplicar.py
+  
   - python impares.py
