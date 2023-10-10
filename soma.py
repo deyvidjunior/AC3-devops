@@ -1,6 +1,6 @@
 # Solicita que o usuário insira dois números
-numero1 = float(input("Digite o primeiro número: "))
-numero2 = float(input("Digite o segundo número: "))
+numero1 = 2.1
+numero2 = 5.0
 
 # Realiza a soma dos números
 soma = numero1 + numero2
