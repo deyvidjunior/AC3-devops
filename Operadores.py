@@ -7,4 +7,4 @@ divisao = numero1 / numero2
 print('Adição: ', adicao)
 print('Subtração: ', subtracao)
 print('Multiplicação: 'multiplicacao)
-print('Divisão: 'round,(divisao, 2))
+print('Divisão: 'round(divisao, 2))
