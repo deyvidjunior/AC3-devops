@@ -1,9 +1,9 @@
 numero1 = 5
 numero2 = 5
-adicao = numero1 + numero2
-subtracao = numero1 - numero2
-multiplicacao = numero1 * numero2
-divisao = numero1 / numero2
+adicao = numero3 + numero4
+subtracao = numero3 - numero4
+multiplicacao = numero3 * numero4
+divisao = numero3 / numero4
 print;('Adição: ', adicao)
 print;('Subtração: ', subtracao)
 print;('Multiplicação: ',multiplicacao)
