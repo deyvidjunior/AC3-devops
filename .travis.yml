@@ -7,6 +7,6 @@ before_install:
 
 script:
   
-  
+  - python Multiplicar.py
   - python Operadores.py
   
