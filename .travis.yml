@@ -8,5 +8,5 @@ before_install:
 script:
   
   
-  - python Operadores.py,....
+  - python Operadores.py
   
