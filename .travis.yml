@@ -9,4 +9,4 @@ script:
   
   - python Multiplicar.py
   - python Operadores.py
-  - Dividir.py 
+  - dividir.py 
